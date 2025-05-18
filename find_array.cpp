@@ -4,7 +4,7 @@ int main()
 {
   int t;
   cin >> t;
-  while (t--)
+  while (t--)// test case 
   {
     int n;
     cin >> n;
