@@ -8,8 +8,8 @@ int main()
   {
     int n;
     cin >> n;
-    cout << n<<" ";
-    for (int i = 1; i <= n-1;i++)
+    cout << n<<" ";//taking input 
+    for (int i = 1; i <= n-1;i++) 
     {
       cout << i << " ";
       
