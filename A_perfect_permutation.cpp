@@ -11,7 +11,7 @@ int main()
     cout << n<<" ";//taking input 
     for (int i = 1; i <= n-1;i++) 
     {
-      cout << i << " ";
+      cout << i << " "; // print the output 
       
     }
       cout << endl;
